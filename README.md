@@ -1,7 +1,8 @@
 # Client/Server Development
 
-Portfolio Reflection: Grazioso Salvare Dashboard Project
-This project involved building a dashboard for Grazioso Salvare, an animal shelter.
+Portfolio Reflection: Grazioso Salvare Dashboard Project.
+
+This project involved building a dashboard for Grazioso Salvare. The main motivation behind the project is to create a software application to assist Grazioso Salvare, a search-and-rescue dog training company, in identifying suitable dogs from animal shelters for their training program.
 
 I focused on writing clean and maintainable code using techniques like descriptive naming, consistent formatting, and clear comments. This approach ensured the code's readability and future adaptability, exemplified by the reusable CRUD module developed in Projects One and Two. This module streamlined database interactions in Project Two's dashboard and can be applied in future projects with similar data access needs.
 
